@@ -6,7 +6,6 @@
 Або надати приклад уже створеного вами ресурсу.
 Посилання на gh, gh pages буде плюсом
 
-Дедлайн - Середа, до 18:00
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
