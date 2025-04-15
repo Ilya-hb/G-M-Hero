@@ -1,4 +1,12 @@
-# React + Vite
+# Test assignment for G&M internship
+
+Технічне завдання:
+
+— створити базовий хіро пейдж з поступовими анімаціями. Можна брати у референс інші дизайни.
+Або надати приклад уже створеного вами ресурсу.
+Посилання на gh, gh pages буде плюсом
+
+Дедлайн - Середа, до 18:00
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
