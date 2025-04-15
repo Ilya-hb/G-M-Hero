@@ -1,10 +1,26 @@
 @import "tailwindcss";
 
 @theme {
-  --color-primary: #010102;
+  --color-primary: #525252;
+  --color-secondary: #f47011;
+  --color-tertiary: #f68e43;
 }
 
 body {
-  background-color: var(--color-primary);
-  color: white;
+  color: black;
+}
+
+.navLink:after {
+  content: "]";
+}
+
+.navLink:before {
+  content: "[";
+}
+
+.navLink:after,
+.navLink:before {
+  color: var(--color-secondary);
+  font-weight: bold;
+  padding: 0 0.15rem;
 }
