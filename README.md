@@ -6,6 +6,11 @@
 Або надати приклад уже створеного вами ресурсу.
 Посилання на gh, gh pages буде плюсом
 
+# Stack
+- React, Vite
+- Tailwind css
+- Motion
+- react-icons
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
